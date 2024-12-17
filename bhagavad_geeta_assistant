@@ -91,7 +91,7 @@ def main():
 
     assistant = BhagavadGitaAssistant(input_file)
     print("Welcome to the Bhagavad Gita Assistant!")
-    print("Ask your question (type 'exit' to quit):")
+    print("Ask your question (type 'exit' to quit the Conversation):")
 
     while True:
         question = input("You: ")
