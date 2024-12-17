@@ -2,7 +2,7 @@ import re
 import logging
 import argparse
 from fpdf import FPDF
-import chardet  # Install with: pip install chardet
+import chardet  # Install with: pip install_chardet
 
 class BhagavadGitaAssistant:
     def __init__(self, file_path):
